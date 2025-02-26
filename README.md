@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/logo.png" alt="Office Logo" width="250px">
+  <img src="./assets/read.png" alt="Office Logo" width="250px">
 </p>
 
 ---
