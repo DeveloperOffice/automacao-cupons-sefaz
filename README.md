@@ -78,7 +78,7 @@ pip install -r requirements.txt
 TOKEN = "21avcas32v1asv1sd56v1as5v4as5v4"
 ```
 
-O token deve ser fornecido pelo administrador
+``O token deve ser fornecido pelo administrador``
 
 ## 🚀 5. Executando o Projeto
 
