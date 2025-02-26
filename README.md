@@ -34,7 +34,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 ✅ **Python 3.10+** → [Baixar aqui](https://www.python.org/downloads/)  
 ✅ **Git** → [Baixar aqui](https://git-scm.com/downloads)  
 ✅ **Google Chrome** → [Baixar aqui](https://www.google.com/chrome/)  
-✅ **ChromeDriver** (mesma versão do Chrome) → [Baixar aqui](https://sites.google.com/chromium.org/driver/)
+
 
 ---
 
