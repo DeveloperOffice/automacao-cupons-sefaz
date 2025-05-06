@@ -94,6 +94,7 @@ def initialize():
 
             # Começar processo de download dos XMLS
             try:
+                print(filterList[:10])
                 for index, xml in enumerate(filterList):
                     getXML(xml, linkApi)
                     print(f"Processando {index + 1} de {len(filterList)} Xmls...")
