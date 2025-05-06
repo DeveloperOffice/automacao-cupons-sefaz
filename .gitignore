@@ -174,3 +174,4 @@ poetry.toml
 pyrightconfig.json
 
 T.py
+user_config.json

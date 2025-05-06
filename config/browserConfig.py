@@ -4,7 +4,7 @@ import undetected_chromedriver as uc
 
 import os
 
-def Chorme():
+def Chrome():
     try:
         # Configuração do Chrome
         service = Service(ChromeDriverManager().install())
